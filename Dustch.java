@@ -1,6 +1,6 @@
 public class Dustch
 {
 
-  Khela shuru hobe
+  shri ganesha kruch ata..
 
 }
